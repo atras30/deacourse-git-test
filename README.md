@@ -1,3 +1,3 @@
 # Testing git course
 
-<h1>Staging Branch</h1>
+<h1>Main Branch</h1>
